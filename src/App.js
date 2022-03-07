@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Row from './Row.js';
-import requests from './request';
+import requests from './requests';
 
 function App() {
   return (
